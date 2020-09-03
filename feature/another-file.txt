@@ -3,3 +3,5 @@ edit this line in feature-2 branch locally
 some edit
 
 new line that added in feature-2 branch locally
+
+adding new line for test git push
