@@ -1,3 +1,5 @@
-just for content in another file in feature-1 branch
+edit this line in feature-2 branch locally
 
 some edit
+
+new line that added in feature-2 branch locally
